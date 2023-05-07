@@ -1,0 +1,148 @@
+@media (max-width:1700px) and (min-width:1400px){
+    .section-2-box {
+        width: 45%;
+        margin: 1%;
+    }
+    .designer {
+        padding: 34px 28%;
+    }
+    .leadership {
+        padding: 18px 3%;
+    }
+    .port-folio {
+        padding: 3% 36px;
+    }
+    .hero-part {
+        padding-bottom: 5%;
+    }
+}
+@media (max-width:1400px){
+        .banner {
+            padding: 26px 32px;
+        }
+        .menu {
+            text-align: inherit;
+        }
+        .menu ul li {
+            padding: 18px 7px;
+            margin: 0px 1px;
+        }
+        .menu ul li a {
+            font-size: 17px;
+        }
+        .hero-part {
+            padding-bottom: 49px;
+        }
+        .section-2-box {
+            width: 44.33%;
+            margin-left: auto;
+        }
+        .port-folio-box {
+            width: 48%;
+        }
+        .leadership {
+            padding: 31px 5%;
+        }
+        .designer {
+            padding: 27px 16%;
+        }
+    }
+    @media (max-width:1000px){
+        .logo img {
+            width: 135px;
+        }
+        .menu .btn {
+            display: none;
+        }
+        .menu ul{
+            text-align: center;
+        }
+        .menu ul li a {
+            font-size: 14px;
+        }
+        .section-2-box {
+            width: 100%;
+        }
+        .port-folio {
+            padding: 3% 19px;
+        }
+        .port-folio-box {
+            height: inherit;
+        }
+        .l-box h3{
+            font-size: 14px;
+        }
+        .l-box {
+            margin-bottom: 32px;
+        }
+        .contact-box {
+            width: 50%;
+            margin: auto;
+            margin-bottom: 40px;
+            float: inherit;
+        }
+        .hero-part h1 {
+            font-size: 30px;
+        }
+    }
+    @media (max-width:568px){
+        .section-2 {
+            padding: 3% 38px;
+        }
+        .logo {
+            width: 100%;
+            height: 50px;
+            float: inherit;
+            text-align: center;
+        }
+        .logo img {
+            width: 95px;
+        }
+        .menu {
+            width: 100%;
+            height: 100%;
+            float: inherit;
+        }
+        .hero-part h3{
+            font-size: 12px;
+        }
+        .hero-part h1 {
+            font-size: 22px;
+        }
+        .hero-part p  {
+            font-size: 12px;
+        }
+        .hero-part button {
+            margin-top: 10px;
+        }
+        .section-2-box {
+            margin-left: -15px;
+        }
+        .port-folio-box {
+            width: 100%;
+        }
+        .port-folio button {
+            margin-top: 7px;
+        }
+        .designer {
+            padding: 27px 4%;
+        }
+        .l-box {
+            width: 100%;
+        }
+        .leadership-footer-1 h1 {
+            font-size: 18px;
+        }
+        .leadership-footer-1 {
+            width: 100%;
+            float: inherit;
+        }
+        .leadership-footer-2 {
+            width: 100%;
+            float: inherit;
+            text-align: center;
+        }
+        footer {
+            font-size: 12px;
+        }
+    }
